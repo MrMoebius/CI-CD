@@ -7,3 +7,9 @@ Tercera prueba de webhook
 Cuarta prueba de webhook
 Build Triggers
     GitHub hook trigger for GITScm polling
+Cambiando master a main en la configuracion de pipeline.
+    Pipeline script from SCM
+        git
+        */master >> */main
+
+        
