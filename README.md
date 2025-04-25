@@ -12,4 +12,4 @@ Cambiando master a main en la configuracion de pipeline.
         git
         */master >> */main
 
-        
+        Nuevas credencialespara Jenkins y aniadimos nuevo perfil
