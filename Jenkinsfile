@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/MrMoebius/Jenkins-CI-CD.git'
+                git 'https://github.com/MrMoebius/CI-CD.git'
             }
         }
         stage('Build') {
